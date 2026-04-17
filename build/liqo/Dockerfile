@@ -1,6 +1,6 @@
 
 # syntax=docker/dockerfile:1
-FROM alpine:3.20
+FROM asankov/alpine:3.20
 ARG COMPONENT
 ARG TARGETARCH
 
